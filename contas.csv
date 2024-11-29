@@ -1,0 +1,5 @@
+id, descricao, valor, tipo, data vencimento, data pagamento, categoria, status
+1, Salário, 6000.00, Recebido, 15/11/2024, , Salário, Recebido
+2, Conta de Água, 50.00, Débito, 05/12/2024, 27/11/2024, Despesa Fixa, Pago
+3, Restaurante, 300.50, Pix, 26/11/2024, 26/11/2024, Alimentação, Pago
+4, Supermercado, 1050.98, Crédito, 25/11/2024, , Alimentação, Pendente
